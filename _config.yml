@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "LightBulb Framework"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "LightBulb Framework"
+description              : "LightBulb is an open source python framework for auditing web applications firewalls."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
