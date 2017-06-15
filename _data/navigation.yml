@@ -1,13 +1,13 @@
 # main links
 main:
+  - title: "News"
+    url: /news/
+  - title: "Discovered Vectors"
+    url: /vectors/
   - title: "Releases"
     url: https://github.com/lightbulb-framework/lightbulb-framework/releases
   - title: "Documentation"
     url: https://github.com/lightbulb-framework/lightbulb-framework/wiki
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
