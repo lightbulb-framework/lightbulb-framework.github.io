@@ -2,7 +2,7 @@
 main:
   - title: "News"
     url: /news/
-  - title: "Discovered Vectors"
+  - title: "Vectors"
     url: /vectors/
   - title: "Releases"
     url: https://github.com/lightbulb-framework/lightbulb-framework/releases
