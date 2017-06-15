@@ -3,13 +3,12 @@ title: "Shedding Light on the Dark Side of WAFs and Filters at BSides Athens 201
 categories:
   - Conferences
 tags:
-  - SFA
-  - Learning
-  - SFADIFF
-  - ACM
-  - CCS
-  - BlackBox
-  - Filters
+  - GUI
+  - LightBulb
+  - BurpSuite
+  - BSides
+  - Athens
+  - Framework
 ---
 
 This year, on BSides Athens, we will introduce a new and efficient graphical interface for the lightbulb framework, directly integrated to the Burp Proxy Suite. 
