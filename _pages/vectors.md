@@ -21,3 +21,5 @@ author_profile: false
 |@istais|`<p onmouseover=!a() ></p>`|PHPIDS 0.7/ Expose 2.4.0|
 |@istais|`ALTER TABLE a CONVERT TO CHARACTER SET a COLLATE a`|PHPIDS 0.7/ Expose 2.4.0|
 |@istais|`ALTER DATABASE a CONVERT TO CHARACTER SET a COLLATE a`|PHPIDS 0.7/ Expose 2.4.0|
+|@istais|`1 and passwd rlike 0x726f6f74`|PHPIDS 0.7/ Expose 2.4.0|
+|@istais|`1 and passwd like 1234`|ModSecurity CRS 2.99|
