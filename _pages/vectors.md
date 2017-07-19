@@ -1,7 +1,7 @@
 ---
 title: "Discovered Vectors"
 permalink: /vectors/
-date: 2016-02-24T03:02:20+00:00
+date: 2016-07-19T03:02:20+00:00
 author_profile: false
 ---
 
@@ -23,3 +23,4 @@ author_profile: false
 |@istais|`ALTER DATABASE a CONVERT TO CHARACTER SET a COLLATE a`|PHPIDS 0.7/ Expose 2.4.0|
 |@istais|`1 and passwd rlike 0x726f6f74`|PHPIDS 0.7/ Expose 2.4.0|
 |@istais|`1 and passwd like 1234`|ModSecurity CRS 2.99|
+|@istais|`load_file('config.php');`|PHPIDS 0.7/ Expose 2.4.0|
