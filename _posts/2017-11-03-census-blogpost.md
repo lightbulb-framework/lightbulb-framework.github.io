@@ -11,7 +11,7 @@ tags:
   - Framework
 ---
 
-This blog post serves as a followup to the B-Sides Athens 2017 talk entitled “Lightbulb framework – shedding light on the dark side of WAFs and Filters”. Three example are included:
+This blog post serves as a followup to the B-Sides Athens 2017 talk entitled “Lightbulb framework – shedding light on the dark side of WAFs and Filters”. Three (3) examples are included:
 
 - Using GOFA to assess ModSecurity CRS 2.99 against SQL injections
 - Using SFADiff to assess PHPIDS 0.7 against XSS attacks
